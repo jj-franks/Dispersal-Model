@@ -1,0 +1,2 @@
+ADCP-data/PISCO-adcp/PISCO-SWC-ADCP.txt filter=lfs diff=lfs merge=lfs -text
+ADCP-data/grady-adcp/adcp1_final.nc filter=lfs diff=lfs merge=lfs -text
